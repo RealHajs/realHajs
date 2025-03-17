@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/Mobile-Build-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RealHajs/)
 [![LinkedIn](https://img.shields.io/badge/Website-Build-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RealHajs/)
 [![LinkedIn](https://img.shields.io/badge/Full-stack-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RealHajs/)
-[![LinkedIn](https://img.shields.io/badge/Back-end-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RealHajs/)
+[![LinkedIn](https://img.shields.io/badge/Database-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RealHajs/)
 [![LinkedIn](https://img.shields.io/badge/Mobile-Design-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RealHajs/)
 [![LinkedIn](https://img.shields.io/badge/Websites-Design-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RealHajs/)
 
