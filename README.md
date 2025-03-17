@@ -27,7 +27,7 @@
 
 ![Počítadlo návštěv profilu](https://komarev.com/ghpvc/?username=realHajs&style=flat-square&color=blue)
 
-![Aktuální čas](https://time-now.vercel.app/api/time?zone=Europe/Prague)
+![Náhodný vtip](https://readme-jokes.vercel.app/api?theme=radical)
 
 ## 📫 Kontakt
 
