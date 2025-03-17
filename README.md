@@ -14,7 +14,7 @@
 
 ## 🌐 Spojte se se mnou
 
-[![LinkedIn](https://img.shields.io/badge/Mobile-App-Design-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RealHajs/)
+[![LinkedIn](https://img.shields.io/badge/Mobile-App-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RealHajs/)
 [![LinkedIn](https://img.shields.io/badge/Website-Design-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RealHajs/)
 [![LinkedIn](https://img.shields.io/badge/Full-stack-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RealHajs/)
 [![LinkedIn](https://img.shields.io/badge/Back-end-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RealHajs/)
