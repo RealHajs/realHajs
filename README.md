@@ -14,8 +14,13 @@
 
 ## 🌐 Spojte se se mnou
 
-[![LinkedIn](https://img.shields.io/badge/Instagram-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/hajscze)
-[![Twitter](https://img.shields.io/badge/Website-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://social-specialist.cz/)
+[![LinkedIn](https://img.shields.io/badge/Mobile-App-Design-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RealHajs/)
+[![LinkedIn](https://img.shields.io/badge/Website-Design-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RealHajs/)
+[![LinkedIn](https://img.shields.io/badge/Full-stack-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RealHajs/)
+[![LinkedIn](https://img.shields.io/badge/Back-end-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RealHajs/)
+[![LinkedIn](https://img.shields.io/badge/Design-Mobile-Apps-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RealHajs/)
+[![LinkedIn](https://img.shields.io/badge/Design-Websites-Apps-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RealHajs/)
+
 
 ![Náhodný citát](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
