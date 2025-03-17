@@ -17,6 +17,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vase-profil)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vase-profil)
 
+![Náhodný citát](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 📫 Kontakt
 
 - **Email:** [matyashiess@seznam.cz](mailto:matyashiess@seznam.cz)
