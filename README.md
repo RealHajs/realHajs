@@ -10,10 +10,8 @@
 
 ## 🔥 Aktuální aktivita
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VASE_UZIVATELSKE_JMENO&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=realHajs&theme=radical)](https://git.io/streak-stats)
 
 ## 📫 Kontakt
 
 - **Email:** [matyashiess@seznam.cz](mailto:matyashiess@seznam.cz)
-
-*Poznámka: Tento profil je neustále ve vývoji. Sledujte mě pro nejnovější aktualizace!*
