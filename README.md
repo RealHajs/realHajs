@@ -12,9 +12,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=realHajs&theme=radical)](https://git.io/streak-stats)
 
-## 📬 Návštěvní kniha
+## 🌐 Spojte se se mnou
 
-[Zanechte mi zprávu](https://github.com/realHajs/realHajs/issues)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vase-profil)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vase-profil)
 
 ## 📫 Kontakt
 
