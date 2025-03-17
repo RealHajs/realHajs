@@ -25,6 +25,9 @@
 </div>
 
 
+![Počítadlo návštěv profilu](https://komarev.com/ghpvc/?username=realHajs&style=flat-square&color=blue)
+
+
 ## 📫 Kontakt
 
 - **Email:** [matyashiess@seznam.cz](mailto:matyashiess@seznam.cz)
