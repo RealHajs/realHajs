@@ -14,14 +14,12 @@
 
 ## 🌐 Spojte se se mnou
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vase-profil)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vase-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/hajscze)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://social-specialist.cz/)
 
 ![Náhodný citát](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![Počítadlo návštěv profilu](https://komarev.com/ghpvc/?username=realHajs&style=flat-square&color=red)
-
-![Náhodný vtip](https://readme-jokes.vercel.app/api?theme=radical)
 
 ## 📫 Kontakt
 
