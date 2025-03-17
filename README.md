@@ -20,8 +20,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=realHajs&theme=radical)](https://git.io/streak-stats)
 
-![Náhodný citát](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ![Počítadlo návštěv profilu](https://komarev.com/ghpvc/?username=realHajs&style=flat-square&color=red)
 
 ## 📫 Kontakt
