@@ -19,7 +19,7 @@
 
 ![Náhodný citát](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Počítadlo návštěv profilu](https://komarev.com/ghpvc/?username=realHajs&style=flat-square&color=green)
+![Počítadlo návštěv profilu](https://komarev.com/ghpvc/?username=realHajs&style=flat-square&color=pink)
 
 ![Náhodný vtip](https://readme-jokes.vercel.app/api?theme=radical)
 
