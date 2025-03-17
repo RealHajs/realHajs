@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/Mobile-Design-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=green)](https://github.com/RealHajs/)
 [![LinkedIn](https://img.shields.io/badge/Websites-Design-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=gold)](https://github.com/RealHajs/)
 
-![Moje dovednosti](https://skillicons.dev/icons?i=react,js,ts,css,html,nodejs,figma,ps,mysql,nextjs,blender)
+![Moje dovednosti](https://skillicons.dev/icons?i=react,js,ts,css,html,nextjs,nodejs,figma,ps,mysql,blender,ai)
 
 
 ## 📈 GitHub statistiky
