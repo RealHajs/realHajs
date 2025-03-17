@@ -27,8 +27,7 @@
 
 ![Počítadlo návštěv profilu](https://komarev.com/ghpvc/?username=realHajs&style=flat-square&color=blue)
 
-![Spotify právě hraje](https://spotify-github-profile.vercel.app/api/now-playing?uid=VAŠE_SPOTIFY_UID&cover_image=true&theme=novatorem)
-
+![Aktuální čas](https://time-now.vercel.app/api/time?zone=Europe/Prague)
 
 ## 📫 Kontakt
 
