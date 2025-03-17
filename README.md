@@ -1,10 +1,19 @@
-# Ahoj! 👋
+# Zdravím
 
-Jsem **Jan Novák**, vášnivý vývojář se zaměřením na webové technologie.
+## 🛠️ Technologie a nástroje
 
-- 🔭 Pracuji na projektu [MojeAplikace](https://github.com/novakj/MojeAplikace)
-- 🌱 Učím se React a TypeScript
-- 💬 Rád diskutuji o open-source projektech
-- 📫 Kontaktujte mě na [LinkedIn](https://www.linkedin.com/in/novakj)
+![Moje dovednosti](https://skillicons.dev/icons?i=react,reactnative,js,ts,css,html,nodejs,figma,ps,filmora,mysql,blender)
 
-![Moje statistiky na GitHubu](https://github-readme-stats.vercel.app/api?username=novakj&show_icons=true)
+## 📈 GitHub statistiky
+
+![Statistiky GitHubu](https://github-readme-stats.vercel.app/api?username=VASE_UZIVATELSKE_JMENO&show_icons=true&theme=radical)
+
+## 🔥 Aktuální aktivita
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VASE_UZIVATELSKE_JMENO&theme=radical)](https://git.io/streak-stats)
+
+## 📫 Kontakt
+
+- **Email:** [matyashiess@seznam.cz](mailto:matyashiess@seznam.cz)
+
+*Poznámka: Tento profil je neustále ve vývoji. Sledujte mě pro nejnovější aktualizace!*
