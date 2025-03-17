@@ -2,7 +2,7 @@
 
 ## 🛠️ Technologie a nástroje
 
-![Moje dovednosti](https://skillicons.dev/icons?i=react,reactnative,js,ts,css,html,nodejs,figma,ps,filmora,mysql,blender)
+![Moje dovednosti](https://skillicons.dev/icons?i=react,js,ts,css,html,nodejs,figma,ps,filmora,mysql,blender)
 
 ## 📈 GitHub statistiky
 
