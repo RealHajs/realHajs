@@ -19,6 +19,12 @@
 
 ![Náhodný citát](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+</div>
+
+
 ## 📫 Kontakt
 
 - **Email:** [matyashiess@seznam.cz](mailto:matyashiess@seznam.cz)
