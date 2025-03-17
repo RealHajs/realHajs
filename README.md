@@ -6,7 +6,7 @@
 
 ## 📈 GitHub statistiky
 
-![Statistiky GitHubu](https://github-readme-stats.vercel.app/api?username=VASE_UZIVATELSKE_JMENO&show_icons=true&theme=radical)
+![Statistiky GitHubu](https://github-readme-stats.vercel.app/api?username=realHajs&show_icons=true&theme=radical)
 
 ## 🔥 Aktuální aktivita
 
