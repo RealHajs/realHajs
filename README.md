@@ -19,13 +19,7 @@
 
 ![Náhodný citát](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-<div align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.icegif.com/wp-content/uploads/2024/03/hasbulla-icegif-5.gif)" width="200"/>
-</div>
-
-
-![Počítadlo návštěv profilu](https://komarev.com/ghpvc/?username=realHajs&style=flat-square&color=blue)
+![Počítadlo návštěv profilu](https://komarev.com/ghpvc/?username=realHajs&style=flat-square&color=red)
 
 ![Náhodný vtip](https://readme-jokes.vercel.app/api?theme=radical)
 
